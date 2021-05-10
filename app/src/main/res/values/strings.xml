@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SolidPrincipleDemo</string>
+    <string name="task_name">task_name</string>
+    <string name="title">title</string>
+    <string name="genereations">genereations</string>
+    <string name="length">length</string>
+    <string name="name">Name</string>
+</resources>
